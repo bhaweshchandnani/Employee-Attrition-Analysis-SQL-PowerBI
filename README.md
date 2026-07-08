@@ -68,7 +68,11 @@ The following HR KPIs were calculated:
 - Total Employees Left
 - Attrition Rate
 - Average Monthly Income
-- Average Years of Experience
+- Average Tenure
+- Attrition by Education Level
+- Attrition by Marital Status
+- Attrition by Job Level
+- Attrition by Remote Work
 
 ## Demographic Analysis
 The following employee demographic factors were analyzed against attrition:
@@ -85,7 +89,7 @@ Comparison of attrition rates across married, single, and divorced employees.
 * Attrition by Education Level
 Analysis of attrition trends across different education levels.
 
-## Job & Work Environment Analysis
+## Work Environment Analysis
 The following workplace-related factors were analyzed:
 
 * Attrition by Job Level
@@ -139,11 +143,15 @@ Employees who received fewer promotions showed higher attrition, while employees
 
 ## Recommendations
 
-* Work-life balance appears to have a strong relationship with attrition. Improving flexibility and employee well-    being programs may help reduce turnover.
-* Entry-level employees are leaving at a much higher rate than other groups. Better onboarding, mentoring, and        career guidance could improve retention.
-* Remote employees show considerably lower attrition. Expanding remote or hybrid work options may help retain         talent.
-* Employees with more promotion opportunities tend to stay longer. Creating clearer career growth paths could         improve employee retention.
-* Younger and single employees represent some of the highest-risk groups. Targeted engagement and retention           initiatives for these employees may be beneficial.
+* Create a healthier work environment with manageable workloads and realistic deadlines so employees can maintain a better work-life balance.
+* 
+* Support new employees with proper guidance, mentoring, and balanced workloads to help them settle into their roles with confidence.
+
+* Offer remote work where possible. Flexible work can save commuting time and help employees maintain a better balance, which may reduce attrition.
+
+* Make career growth more transparent by providing clear promotion paths and meaningful rewards at every stage of an employee's journey.
+
+* Reduce the need for overtime by improving work planning and increasing productivity. Better task planning can help employees complete their work during regular working hours, reducing burnout and improving employee retention.
 
 ## SQL Queries
   "Employee Attrition Project.sql"
@@ -152,41 +160,38 @@ Employees who received fewer promotions showed higher attrition, while employees
 
 * Page 1
 - Total Employees
-- Attrition Slicer
+- Employees Left
 - Attrition Rate
 - Average Income
-- Average Company Tenure
-- Attrition by Age Group
-- Attrition by Gender
+- Average Tenure
 
 * Page 2
-- Attrition by Marital Status
 - Attrition by Education Level
+- Attrition by Marital Status
 
 * Page 3
 - Attrition by Job Level
-- Attrition by Company Tenure Group
+- Attrition by Promotions
 - Attrition by Work-Life Balance
 - Attrition by Remote Work
 
 * Page 4
-- Attrition by Promotions
 - Key Insights
-- Recommendations
+- Recommended Ideas
 
 ## Dashboard Screenshots
 
-* Executive Summary
-  "Executive Summary.png"
+* Overview
+  "Overview.png"
 
-* Employee Demographics
-  "Employee Demographics.png"
+* Employee Profile
+  "Employee Profile.png"
 
-* Work Environment Analysis
-  "Job & Work Environment.png"
+* Workplace Analysis
+  "Workplace Analysis.png"
 
-* Career Growth & Insights
-  "Career Growth & Insights.png"
+* Recommendations
+  "Recommendations.png"
 
 ## Project Outcome
 The analysis identified employee groups with higher attrition rates and highlighted workplace factors associated with employee attrition. The findings can help organizations design targeted retention strategies and improve workforce stability.
