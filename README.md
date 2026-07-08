@@ -1,4 +1,4 @@
-# Employee Attrition Analysis using SQL & Power BI
+# Employee Attrition Project using SQL & Power BI
 
 ## Project Overview
 
