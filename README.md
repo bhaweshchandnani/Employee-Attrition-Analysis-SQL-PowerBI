@@ -1,4 +1,4 @@
-# Employee Attrition Project using SQL & Power BI
+# Employee Attrition Analysis Project
 
 ## Project Overview
 
@@ -179,19 +179,6 @@ Employees who received fewer promotions showed higher attrition, while employees
 - Key Insights
 - Recommended Ideas
 
-## Dashboard Screenshots
-
-* Overview
-  "Overview.png"
-
-* Employee Profile
-  "Employee Profile.png"
-
-* Workplace Analysis
-  "Workplace Analysis.png"
-
-* Recommendations
-  "Recommendations.png"
 
 ## Project Outcome
 The analysis identified employee groups with higher attrition rates and highlighted workplace factors associated with employee attrition. The findings can help organizations design targeted retention strategies and improve workforce stability.
